@@ -1,0 +1,24 @@
+{
+  "name": "react-component-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruk91/react-component-library.git"
+  },
+  "keywords": [
+    "ReactJs",
+    "Component",
+    "library"
+  ],
+  "author": "Sajith Wijerathne (ruk91)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruk91/react-component-library/issues"
+  },
+  "homepage": "https://github.com/ruk91/react-component-library#readme"
+}
